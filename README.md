@@ -3,11 +3,11 @@
 This project demonstrates how to monitor a FastAPI application using Prometheus and visualize metrics with Grafana.
 
 ## Stack
-![Python](images/Python.svg)
-![Fastapi](images/FastAPI.svg)
-![Prometheus](images/Prometheus.svg)
-![Prometheus](images/Grafana.svg)
-![Bash](images/Bash.svg)
+![Python](images/Python.png)
+![Fastapi](images/FastAPI.png)
+![Prometheus](images/Prometheus.png)
+![Prometheus](images/Grafana.png)
+![Bash](images/Bash.png)
 - Python
 - FastAPI
 - Prometheus
